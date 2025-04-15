@@ -60,3 +60,4 @@ plt.show()
 # Stop Spark session
 spark.stop()
 
+# k=10 was chosen as an initial estimate for the number of job categories
