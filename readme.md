@@ -111,3 +111,4 @@ Confirm that the Hadoop services are running correctly by checking the Docker co
 
 *Example of checking Spark job results in HDFS:*
 ![HDFS Word Count Result](assets/fig5.png)
+
