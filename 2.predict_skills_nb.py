@@ -59,3 +59,4 @@ plt.show()
 
 spark.stop()
 
+# HashingTF is used for efficient feature vectorization
